@@ -1,0 +1,2 @@
+# Scraping_boatrace_result
+ボートレースの結果をスクレイピングするPythonコード
